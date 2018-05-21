@@ -1,2 +1,2 @@
 # MusicallyChallenged
-Line following music player robot using Arduino Uno 
+Black line following robot which plays music according to the gradient of black it senses.
